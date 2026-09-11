@@ -1,0 +1,15 @@
+# data must never leave this machine
+/data/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# os / editors
+.DS_Store
+.vscode/
+.idea/
