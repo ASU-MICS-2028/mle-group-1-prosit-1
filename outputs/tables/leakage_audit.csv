@@ -1,0 +1,5 @@
+leak,leaky version,clean version,leaky AUC,clean AUC,gap
+Preprocessing on pooled data,impute/scale on train+test,Pipeline fit on train only,0.6604,0.6602,0.0001
+Group leakage,random 5-fold CV over households,GroupKFold over clusters,0.6775,0.6759,0.0016
+Post-treatment feature,include children_under_net_last_night,exclude it,0.7497,0.6602,0.0895
+Target encoding,cluster -> mean has_net over all rows,"one-hot region, no cluster feature",0.7207,0.6602,0.0605

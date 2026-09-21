@@ -1,0 +1,5 @@
+,low,high,width
+normal approx (iid),0.6339,0.6889,0.055
+simple bootstrap (households),0.635,0.6896,0.0546
+cluster bootstrap,0.5995,0.7199,0.1204
+weighted cluster bootstrap,0.6142,0.7326,0.1184

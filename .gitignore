@@ -13,3 +13,7 @@ __pycache__/
 .DS_Store
 .vscode/
 .idea/
+
+# team-only, not part of the submission repo
+presentation/
+reflections/
