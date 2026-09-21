@@ -17,3 +17,6 @@ __pycache__/
 # team-only, not part of the submission repo
 presentation/
 reflections/
+
+# course documents (contain staff contact details)
+/*.pdf

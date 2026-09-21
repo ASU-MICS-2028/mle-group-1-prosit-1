@@ -1,0 +1,65 @@
+cv,scope,encoding,features,model,CV AUC,leaks
+random KFold,pooled,target-encode cluster (all rows),+ post-treatment,logistic,0.8036,"cv, scope, encoding, features"
+random KFold,train-only,target-encode cluster (all rows),+ post-treatment,logistic,0.8036,"cv, encoding, features"
+GroupKFold,pooled,target-encode cluster (all rows),+ post-treatment,logistic,0.8034,"scope, encoding, features"
+GroupKFold,train-only,target-encode cluster (all rows),+ post-treatment,logistic,0.8034,"encoding, features"
+GroupKFold,pooled,target-encode cluster (all rows),+ post-treatment,boosted trees,0.8011,"scope, encoding, features"
+GroupKFold,train-only,target-encode cluster (all rows),+ post-treatment,boosted trees,0.8011,"encoding, features"
+random KFold,pooled,target-encode cluster (all rows),+ post-treatment,boosted trees,0.7947,"cv, scope, encoding, features"
+random KFold,train-only,target-encode cluster (all rows),+ post-treatment,boosted trees,0.7947,"cv, encoding, features"
+random KFold,pooled,one-hot region,+ post-treatment,logistic,0.7591,"cv, scope, features"
+random KFold,train-only,one-hot region,+ post-treatment,logistic,0.7591,"cv, features"
+random KFold,train-only,one-hot region,+ post-treatment,boosted trees,0.7586,"cv, features"
+random KFold,pooled,one-hot region,+ post-treatment,boosted trees,0.7586,"cv, scope, features"
+random KFold,train-only,target-encode region (all rows),+ post-treatment,boosted trees,0.758,"cv, encoding, features"
+random KFold,pooled,target-encode region (all rows),+ post-treatment,boosted trees,0.758,"cv, scope, encoding, features"
+GroupKFold,train-only,one-hot region,+ post-treatment,logistic,0.7578,features
+GroupKFold,pooled,one-hot region,+ post-treatment,logistic,0.7577,"scope, features"
+random KFold,pooled,region as a number,+ post-treatment,boosted trees,0.7576,"cv, scope, features"
+random KFold,train-only,region as a number,+ post-treatment,boosted trees,0.7576,"cv, features"
+GroupKFold,train-only,target-encode region (all rows),+ post-treatment,boosted trees,0.7549,"encoding, features"
+GroupKFold,pooled,target-encode region (all rows),+ post-treatment,boosted trees,0.7549,"scope, encoding, features"
+GroupKFold,train-only,target-encode region (all rows),+ post-treatment,logistic,0.7545,"encoding, features"
+GroupKFold,pooled,target-encode region (all rows),+ post-treatment,logistic,0.7545,"scope, encoding, features"
+GroupKFold,train-only,region as a number,+ post-treatment,boosted trees,0.7544,features
+GroupKFold,pooled,region as a number,+ post-treatment,boosted trees,0.7544,"scope, features"
+GroupKFold,pooled,one-hot region,+ post-treatment,boosted trees,0.7542,"scope, features"
+GroupKFold,train-only,one-hot region,+ post-treatment,boosted trees,0.7542,features
+random KFold,pooled,target-encode region (all rows),+ post-treatment,logistic,0.7537,"cv, scope, encoding, features"
+random KFold,train-only,target-encode region (all rows),+ post-treatment,logistic,0.7537,"cv, encoding, features"
+GroupKFold,pooled,target-encode cluster (all rows),clean,logistic,0.7396,"scope, encoding"
+GroupKFold,train-only,target-encode cluster (all rows),clean,logistic,0.7396,encoding
+random KFold,pooled,target-encode cluster (all rows),clean,logistic,0.7394,"cv, scope, encoding"
+random KFold,train-only,target-encode cluster (all rows),clean,logistic,0.7394,"cv, encoding"
+GroupKFold,train-only,target-encode cluster (all rows),clean,boosted trees,0.7379,encoding
+GroupKFold,pooled,target-encode cluster (all rows),clean,boosted trees,0.7379,"scope, encoding"
+random KFold,pooled,target-encode cluster (all rows),clean,boosted trees,0.7317,"cv, scope, encoding"
+random KFold,train-only,target-encode cluster (all rows),clean,boosted trees,0.7317,"cv, encoding"
+random KFold,pooled,region as a number,+ post-treatment,logistic,0.7305,"cv, scope, features"
+random KFold,train-only,region as a number,+ post-treatment,logistic,0.7305,"cv, features"
+GroupKFold,pooled,region as a number,+ post-treatment,logistic,0.7296,"scope, features"
+GroupKFold,train-only,region as a number,+ post-treatment,logistic,0.7296,features
+random KFold,train-only,one-hot region,clean,boosted trees,0.6783,cv
+random KFold,pooled,one-hot region,clean,boosted trees,0.6783,"cv, scope"
+random KFold,train-only,target-encode region (all rows),clean,boosted trees,0.6778,"cv, encoding"
+random KFold,pooled,target-encode region (all rows),clean,boosted trees,0.6778,"cv, scope, encoding"
+random KFold,train-only,one-hot region,clean,logistic,0.6775,cv
+random KFold,pooled,one-hot region,clean,logistic,0.6775,"cv, scope"
+random KFold,pooled,region as a number,clean,boosted trees,0.6765,"cv, scope"
+random KFold,train-only,region as a number,clean,boosted trees,0.6765,cv
+GroupKFold,pooled,one-hot region,clean,logistic,0.6759,scope
+GroupKFold,train-only,one-hot region,clean,logistic,0.6759,none
+GroupKFold,train-only,target-encode region (all rows),clean,boosted trees,0.6731,encoding
+GroupKFold,pooled,target-encode region (all rows),clean,boosted trees,0.6731,"scope, encoding"
+GroupKFold,train-only,target-encode region (all rows),clean,logistic,0.6729,encoding
+GroupKFold,pooled,target-encode region (all rows),clean,logistic,0.6729,"scope, encoding"
+random KFold,pooled,target-encode region (all rows),clean,logistic,0.6726,"cv, scope, encoding"
+random KFold,train-only,target-encode region (all rows),clean,logistic,0.6726,"cv, encoding"
+GroupKFold,pooled,one-hot region,clean,boosted trees,0.6716,scope
+GroupKFold,train-only,one-hot region,clean,boosted trees,0.6716,none
+GroupKFold,train-only,region as a number,clean,boosted trees,0.6712,none
+GroupKFold,pooled,region as a number,clean,boosted trees,0.6712,scope
+GroupKFold,pooled,region as a number,clean,logistic,0.6453,scope
+GroupKFold,train-only,region as a number,clean,logistic,0.6453,none
+random KFold,pooled,region as a number,clean,logistic,0.6446,"cv, scope"
+random KFold,train-only,region as a number,clean,logistic,0.6446,cv

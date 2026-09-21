@@ -16,13 +16,13 @@ uv venv --python 3.12 && uv pip install -r requirements.txt
 .venv/bin/jupyter nbconvert --to notebook --execute --inplace notebooks/prosit1.ipynb
 ```
 
-Or open it interactively with `.venv/bin/jupyter lab` and choose Run All. Takes about two minutes.
+Or open it interactively with `.venv/bin/jupyter lab` and choose Run All. Takes about six minutes; section 15 runs 168 configurations.
 
 ## Layout
 
 | Path | What |
 |---|---|
-| `notebooks/prosit1.ipynb` | The analysis, sections 1–14 |
+| `notebooks/prosit1.ipynb` | The analysis, sections 1–15 (section 15 is the experiment matrix) |
 | `notebooks/district_crosswalk.csv` | 2014–17 district names → 2021 boundary names (17 mismatches, 5 district splits) |
 | `outputs/figures/`, `outputs/tables/` | Written by the notebook. Aggregates only, no household rows |
 

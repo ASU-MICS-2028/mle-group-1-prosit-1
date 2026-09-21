@@ -1,0 +1,13 @@
+lever,option,CV AUC,change vs clean route,this option is
+cv,random KFold,0.6775,0.0016,LEAK
+cv,GroupKFold,0.6759,0.0,our route
+scope,pooled,0.6759,0.0,LEAK
+scope,train-only,0.6759,0.0,our route
+encoding,target-encode cluster (all rows),0.7396,0.0637,LEAK
+encoding,one-hot region,0.6759,0.0,our route
+encoding,target-encode region (all rows),0.6729,-0.003,LEAK
+encoding,region as a number,0.6453,-0.0306,honest alternative
+features,+ post-treatment,0.7578,0.0819,LEAK
+features,clean,0.6759,0.0,our route
+model,logistic,0.6759,0.0,our route
+model,boosted trees,0.6716,-0.0043,honest alternative

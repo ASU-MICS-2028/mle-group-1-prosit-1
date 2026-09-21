@@ -1,51 +1,51 @@
 district,region_name,rate,boot low,boot high,coverage,unprotected rate,nets
-Nabdam,Upper East Region,7.1336,5.3444,9.0218,0.7956,1.4581,20810.0
-Daffiama-Bussie-Issa,Upper West Region,4.2354,3.3143,5.3515,0.6976,1.2808,17951.0
-Wa,Upper West Region,4.2755,3.4702,5.2052,0.6976,1.2929,59143.0
-Lambussie-Karni,Upper West Region,4.1912,3.3845,5.0087,0.6976,1.2674,28017.0
-Sissala East,Upper West Region,3.7571,2.765,4.9624,0.6976,1.1361,27486.0
-Nadowli-Kaleo,Upper West Region,3.3745,2.6735,4.1427,0.6976,1.0205,26863.0
-Lawra,Upper West Region,3.2162,2.4649,4.0304,0.6976,0.9726,22781.0
-Pusiga,Upper East Region,5.07,4.2002,5.9497,0.7956,1.0363,25373.0
-Sissala West,Upper West Region,3.1351,2.4595,3.9606,0.6976,0.9481,20108.0
-Nandom,Upper West Region,2.8899,2.2799,3.6301,0.6976,0.8739,17157.0
-Kasena-Nankana West,Upper East Region,4.2079,3.1898,5.346,0.7956,0.8601,25979.0
-Jirapa,Upper West Region,3.0026,2.4541,3.594,0.6976,0.908,34216.0
-Bole,Northern Region,2.7017,2.082,3.36,0.6769,0.8729,23714.0
-Wa West,Upper West Region,2.6824,2.0825,3.3229,0.6976,0.8111,28139.0
-Bolgatanga,Upper East Region,4.0222,3.1882,4.9015,0.7956,0.8221,46187.0
-Builsa South,Upper East Region,3.8935,3.0271,4.7815,0.7956,0.7958,12385.0
-Bongo,Upper East Region,3.5313,2.5756,4.6479,0.7956,0.7218,25997.0
-Garu-Tempane,Upper East Region,3.7321,2.9643,4.6053,0.7956,0.7628,42107.0
-Wa East,Upper West Region,2.4889,1.9295,3.0994,0.6976,0.7527,23170.0
-West Gonja,Northern Region,2.0101,1.5068,2.6112,0.6769,0.6495,11928.0
-Bawku,Upper East Region,3.4366,2.8018,4.0967,0.7956,0.7024,29391.0
-Builsa North,Upper East Region,3.1729,2.3196,4.0894,0.7956,0.6485,15579.0
-Bawku West,Upper East Region,3.1594,2.4717,3.8925,0.7956,0.6458,25849.0
-Tolon,Northern Region,1.8629,1.3776,2.3995,0.6769,0.6019,19099.0
-Sawla-Tuna-Kalba,Northern Region,1.9797,1.578,2.3856,0.6769,0.6396,27887.0
-Talensi,Upper East Region,2.8424,2.0399,3.6988,0.7956,0.581,20137.0
-Saboba,Northern Region,1.815,1.3161,2.3261,0.6769,0.5864,17164.0
-Binduri,Upper East Region,2.8534,2.1714,3.633,0.7956,0.5832,15301.0
-Central Gonja,Northern Region,1.5911,1.2544,1.9273,0.6769,0.5141,19641.0
-Tatale-Sangule,Northern Region,1.5844,1.2624,1.9254,0.6769,0.5119,13587.0
-Chereponi,Northern Region,1.5068,1.1581,1.8729,0.6769,0.4869,11592.0
-Kasena-Nankana,Upper East Region,2.2921,1.7835,2.8815,0.7956,0.4685,21890.0
-Bunkpurugu-Yunyoo,Northern Region,1.2415,0.9627,1.5369,0.6769,0.4011,21434.0
-Kumbungu,Northern Region,1.142,0.8844,1.4358,0.6769,0.369,6392.0
-Yendi,Northern Region,1.1012,0.8275,1.4081,0.6769,0.3558,18551.0
-East Mamprusi,Northern Region,1.0551,0.7937,1.3564,0.6769,0.3409,18156.0
-Zabzugu,Northern Region,1.1468,0.9629,1.3521,0.6769,0.3705,10482.0
-Nanumba South,Northern Region,0.9808,0.6553,1.3421,0.6769,0.3169,13071.0
-Mion,Northern Region,1.0169,0.7333,1.3282,0.6769,0.3286,11774.0
-Kpandai,Northern Region,1.0886,0.874,1.3058,0.6769,0.3517,16827.0
-North Gonja,Northern Region,0.912,0.6518,1.2166,0.6769,0.2947,5736.0
-Savelugu-Nanton,Northern Region,0.9168,0.6531,1.1814,0.6769,0.2962,18063.0
-Nanumba North,Northern Region,0.8791,0.6844,1.1032,0.6769,0.284,17622.0
-Mamprugu-Moagduri,Northern Region,0.772,0.5597,1.0358,0.6769,0.2494,5151.0
-Karaga,Northern Region,0.7584,0.597,0.9248,0.6769,0.245,8288.0
-Gushiegu,Northern Region,0.6079,0.4763,0.7555,0.6769,0.1964,9609.0
-East Gonja,Northern Region,0.5628,0.4512,0.6857,0.6769,0.1818,10864.0
-West Mamprusi,Northern Region,0.5515,0.4305,0.6826,0.6769,0.1782,9493.0
-Sagnarigu,Northern Region,0.4879,0.3867,0.6,0.6769,0.1576,10155.0
-Tamale,Northern Region,0.3699,0.2968,0.4454,0.6769,0.1195,11706.0
+Nabdam,Upper East Region,7.1336,5.4212,9.1802,0.7956,1.4581,20810.0
+Daffiama-Bussie-Issa,Upper West Region,4.2354,3.2795,5.2811,0.6976,1.2808,17951.0
+Wa,Upper West Region,4.2755,3.418,5.1498,0.6976,1.2929,59143.0
+Lambussie-Karni,Upper West Region,4.1912,3.378,5.0903,0.6976,1.2674,28017.0
+Sissala East,Upper West Region,3.7571,2.7476,4.9927,0.6976,1.1361,27486.0
+Nadowli-Kaleo,Upper West Region,3.3745,2.7,4.1684,0.6976,1.0205,26863.0
+Pusiga,Upper East Region,5.07,4.1745,5.982,0.7956,1.0363,25373.0
+Lawra,Upper West Region,3.2162,2.4664,4.0098,0.6976,0.9726,22781.0
+Sissala West,Upper West Region,3.1351,2.4338,3.9912,0.6976,0.9481,20108.0
+Nandom,Upper West Region,2.8899,2.2633,3.6459,0.6976,0.8739,17157.0
+Jirapa,Upper West Region,3.0026,2.4477,3.6055,0.6976,0.908,34216.0
+Bole,Northern Region,2.7017,2.0578,3.3712,0.6769,0.8729,23714.0
+Kasena-Nankana West,Upper East Region,4.2079,3.2006,5.3114,0.7956,0.8601,25979.0
+Bolgatanga,Upper East Region,4.0222,3.1756,4.9764,0.7956,0.8221,46187.0
+Wa West,Upper West Region,2.6824,2.0845,3.334,0.6976,0.8111,28139.0
+Builsa South,Upper East Region,3.8935,3.0267,4.7391,0.7956,0.7958,12385.0
+Wa East,Upper West Region,2.4889,1.9555,3.106,0.6976,0.7527,23170.0
+Garu-Tempane,Upper East Region,3.7321,2.9709,4.5947,0.7956,0.7628,42107.0
+Bongo,Upper East Region,3.5313,2.5503,4.5834,0.7956,0.7218,25997.0
+Bawku,Upper East Region,3.4366,2.8239,4.1118,0.7956,0.7024,29391.0
+Builsa North,Upper East Region,3.1729,2.3636,4.0578,0.7956,0.6485,15579.0
+West Gonja,Northern Region,2.0101,1.498,2.5668,0.6769,0.6495,11928.0
+Bawku West,Upper East Region,3.1594,2.4918,3.915,0.7956,0.6458,25849.0
+Sawla-Tuna-Kalba,Northern Region,1.9797,1.5865,2.4148,0.6769,0.6396,27887.0
+Tolon,Northern Region,1.8629,1.3466,2.4108,0.6769,0.6019,19099.0
+Talensi,Upper East Region,2.8424,2.036,3.7262,0.7956,0.581,20137.0
+Saboba,Northern Region,1.815,1.3128,2.3544,0.6769,0.5864,17164.0
+Binduri,Upper East Region,2.8534,2.1987,3.6481,0.7956,0.5832,15301.0
+Central Gonja,Northern Region,1.5911,1.2537,1.9268,0.6769,0.5141,19641.0
+Tatale-Sangule,Northern Region,1.5844,1.2742,1.9204,0.6769,0.5119,13587.0
+Chereponi,Northern Region,1.5068,1.1603,1.8796,0.6769,0.4869,11592.0
+Kasena-Nankana,Upper East Region,2.2921,1.7697,2.8522,0.7956,0.4685,21890.0
+Bunkpurugu-Yunyoo,Northern Region,1.2415,0.956,1.5419,0.6769,0.4011,21434.0
+Kumbungu,Northern Region,1.142,0.8929,1.4345,0.6769,0.369,6392.0
+Yendi,Northern Region,1.1012,0.8278,1.3873,0.6769,0.3558,18551.0
+East Mamprusi,Northern Region,1.0551,0.7891,1.3693,0.6769,0.3409,18156.0
+Zabzugu,Northern Region,1.1468,0.9653,1.347,0.6769,0.3705,10482.0
+Nanumba South,Northern Region,0.9808,0.6523,1.3433,0.6769,0.3169,13071.0
+Mion,Northern Region,1.0169,0.7229,1.3139,0.6769,0.3286,11774.0
+Kpandai,Northern Region,1.0886,0.8863,1.3028,0.6769,0.3517,16827.0
+North Gonja,Northern Region,0.912,0.6429,1.2177,0.6769,0.2947,5736.0
+Savelugu-Nanton,Northern Region,0.9168,0.6687,1.1656,0.6769,0.2962,18063.0
+Nanumba North,Northern Region,0.8791,0.6687,1.0881,0.6769,0.284,17622.0
+Mamprugu-Moagduri,Northern Region,0.772,0.5547,1.0376,0.6769,0.2494,5151.0
+Karaga,Northern Region,0.7584,0.6005,0.926,0.6769,0.245,8288.0
+Gushiegu,Northern Region,0.6079,0.4778,0.7466,0.6769,0.1964,9609.0
+East Gonja,Northern Region,0.5628,0.4525,0.6853,0.6769,0.1818,10864.0
+West Mamprusi,Northern Region,0.5515,0.4327,0.6803,0.6769,0.1782,9493.0
+Sagnarigu,Northern Region,0.4879,0.3882,0.585,0.6769,0.1576,10155.0
+Tamale,Northern Region,0.3699,0.2984,0.4486,0.6769,0.1195,11706.0

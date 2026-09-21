@@ -1,0 +1,13 @@
+family,offset,covariates,parameters,AIC,alpha
+Poisson,none,none,1,3387464.268,
+Poisson,none,region,3,1377017.681,
+Poisson,none,region + IRS,4,1319329.538,
+Poisson,log(pop),none,1,4419517.333,
+Poisson,log(pop),region,3,1060790.319,
+Poisson,log(pop),region + IRS,4,1046719.358,
+Negative Binomial,none,none,2,1298.201,0.342
+Negative Binomial,none,region,4,1256.265,0.145
+Negative Binomial,none,region + IRS,5,1256.838,0.141
+Negative Binomial,log(pop),none,2,1309.358,0.417
+Negative Binomial,log(pop),region,4,1253.832,0.139
+Negative Binomial,log(pop),region + IRS,5,1252.595,0.13
