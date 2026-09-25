@@ -1,81 +1,81 @@
 estimator,imputation,coverage,statistic,top-10 shared with our route,rank correlation with our route
-raw count,zero,none,mean,2,0.745
-raw count,zero,none,upper bound (month bootstrap),2,0.738
-raw count,zero,none,upper bound (NB parametric),2,0.745
-raw count,zero,none,lower bound (month bootstrap),2,0.748
-raw count,zero,x (1 - coverage),mean,4,0.729
-raw count,zero,x (1 - coverage),upper bound (month bootstrap),4,0.727
-raw count,zero,x (1 - coverage),upper bound (NB parametric),4,0.729
-raw count,zero,x (1 - coverage),lower bound (month bootstrap),4,0.732
-raw rate,zero,none,mean,6,0.941
+raw count,zero,none,mean,2,0.751
+raw count,zero,none,upper bound (month bootstrap),2,0.748
+raw count,zero,none,upper bound (NB parametric),2,0.751
+raw count,zero,none,lower bound (month bootstrap),2,0.754
+raw count,zero,x (1 - coverage),mean,4,0.744
+raw count,zero,x (1 - coverage),upper bound (month bootstrap),4,0.741
+raw count,zero,x (1 - coverage),upper bound (NB parametric),4,0.744
+raw count,zero,x (1 - coverage),lower bound (month bootstrap),4,0.749
+raw rate,zero,none,mean,6,0.939
 raw rate,zero,none,upper bound (month bootstrap),6,0.94
-raw rate,zero,none,upper bound (NB parametric),6,0.941
-raw rate,zero,none,lower bound (month bootstrap),5,0.938
+raw rate,zero,none,upper bound (NB parametric),6,0.939
+raw rate,zero,none,lower bound (month bootstrap),5,0.94
 raw rate,zero,x (1 - coverage),mean,9,0.997
 raw rate,zero,x (1 - coverage),upper bound (month bootstrap),10,1.0
 raw rate,zero,x (1 - coverage),upper bound (NB parametric),9,0.997
 raw rate,zero,x (1 - coverage),lower bound (month bootstrap),9,0.993
-shrunk rate (empirical Bayes),zero,none,mean,6,0.941
+shrunk rate (empirical Bayes),zero,none,mean,6,0.939
 shrunk rate (empirical Bayes),zero,none,upper bound (month bootstrap),6,0.94
-shrunk rate (empirical Bayes),zero,none,upper bound (NB parametric),6,0.941
-shrunk rate (empirical Bayes),zero,none,lower bound (month bootstrap),5,0.938
+shrunk rate (empirical Bayes),zero,none,upper bound (NB parametric),6,0.939
+shrunk rate (empirical Bayes),zero,none,lower bound (month bootstrap),5,0.94
 shrunk rate (empirical Bayes),zero,x (1 - coverage),mean,9,0.997
 shrunk rate (empirical Bayes),zero,x (1 - coverage),upper bound (month bootstrap),10,1.0
 shrunk rate (empirical Bayes),zero,x (1 - coverage),upper bound (NB parametric),9,0.997
 shrunk rate (empirical Bayes),zero,x (1 - coverage),lower bound (month bootstrap),9,0.993
-NB regression (region + IRS),zero,none,mean,2,0.645
-NB regression (region + IRS),zero,none,upper bound (month bootstrap),1,0.661
-NB regression (region + IRS),zero,none,upper bound (NB parametric),2,0.597
-NB regression (region + IRS),zero,none,lower bound (month bootstrap),2,0.639
-NB regression (region + IRS),zero,x (1 - coverage),mean,7,0.785
-NB regression (region + IRS),zero,x (1 - coverage),upper bound (month bootstrap),7,0.798
-NB regression (region + IRS),zero,x (1 - coverage),upper bound (NB parametric),8,0.737
-NB regression (region + IRS),zero,x (1 - coverage),lower bound (month bootstrap),7,0.761
-common-rate model x population,zero,none,mean,0,-0.52
-common-rate model x population,zero,none,upper bound (month bootstrap),0,-0.545
-common-rate model x population,zero,none,upper bound (NB parametric),0,-0.52
-common-rate model x population,zero,none,lower bound (month bootstrap),0,-0.52
-common-rate model x population,zero,x (1 - coverage),mean,0,-0.599
-common-rate model x population,zero,x (1 - coverage),upper bound (month bootstrap),0,-0.615
-common-rate model x population,zero,x (1 - coverage),upper bound (NB parametric),0,-0.599
-common-rate model x population,zero,x (1 - coverage),lower bound (month bootstrap),0,-0.573
-raw count,district median,none,mean,2,0.745
-raw count,district median,none,upper bound (month bootstrap),2,0.741
-raw count,district median,none,upper bound (NB parametric),2,0.745
-raw count,district median,none,lower bound (month bootstrap),2,0.743
-raw count,district median,x (1 - coverage),mean,4,0.729
-raw count,district median,x (1 - coverage),upper bound (month bootstrap),4,0.729
-raw count,district median,x (1 - coverage),upper bound (NB parametric),4,0.729
-raw count,district median,x (1 - coverage),lower bound (month bootstrap),4,0.733
-raw rate,district median,none,mean,6,0.941
-raw rate,district median,none,upper bound (month bootstrap),6,0.938
-raw rate,district median,none,upper bound (NB parametric),6,0.941
-raw rate,district median,none,lower bound (month bootstrap),5,0.94
+NB regression (region + IRS),zero,none,mean,2,0.688
+NB regression (region + IRS),zero,none,upper bound (month bootstrap),1,0.701
+NB regression (region + IRS),zero,none,upper bound (NB parametric),2,0.646
+NB regression (region + IRS),zero,none,lower bound (month bootstrap),2,0.67
+NB regression (region + IRS),zero,x (1 - coverage),mean,7,0.815
+NB regression (region + IRS),zero,x (1 - coverage),upper bound (month bootstrap),7,0.816
+NB regression (region + IRS),zero,x (1 - coverage),upper bound (NB parametric),8,0.792
+NB regression (region + IRS),zero,x (1 - coverage),lower bound (month bootstrap),7,0.794
+common-rate model x population,zero,none,mean,0,-0.493
+common-rate model x population,zero,none,upper bound (month bootstrap),0,-0.518
+common-rate model x population,zero,none,upper bound (NB parametric),0,-0.493
+common-rate model x population,zero,none,lower bound (month bootstrap),0,-0.492
+common-rate model x population,zero,x (1 - coverage),mean,0,-0.525
+common-rate model x population,zero,x (1 - coverage),upper bound (month bootstrap),0,-0.537
+common-rate model x population,zero,x (1 - coverage),upper bound (NB parametric),0,-0.525
+common-rate model x population,zero,x (1 - coverage),lower bound (month bootstrap),0,-0.511
+raw count,district median,none,mean,2,0.752
+raw count,district median,none,upper bound (month bootstrap),2,0.753
+raw count,district median,none,upper bound (NB parametric),2,0.752
+raw count,district median,none,lower bound (month bootstrap),2,0.75
+raw count,district median,x (1 - coverage),mean,4,0.744
+raw count,district median,x (1 - coverage),upper bound (month bootstrap),4,0.746
+raw count,district median,x (1 - coverage),upper bound (NB parametric),4,0.744
+raw count,district median,x (1 - coverage),lower bound (month bootstrap),5,0.743
+raw rate,district median,none,mean,6,0.939
+raw rate,district median,none,upper bound (month bootstrap),6,0.939
+raw rate,district median,none,upper bound (NB parametric),6,0.939
+raw rate,district median,none,lower bound (month bootstrap),5,0.938
 raw rate,district median,x (1 - coverage),mean,9,0.998
-raw rate,district median,x (1 - coverage),upper bound (month bootstrap),10,0.998
+raw rate,district median,x (1 - coverage),upper bound (month bootstrap),10,0.999
 raw rate,district median,x (1 - coverage),upper bound (NB parametric),9,0.998
-raw rate,district median,x (1 - coverage),lower bound (month bootstrap),9,0.993
-shrunk rate (empirical Bayes),district median,none,mean,6,0.941
-shrunk rate (empirical Bayes),district median,none,upper bound (month bootstrap),6,0.938
-shrunk rate (empirical Bayes),district median,none,upper bound (NB parametric),6,0.941
-shrunk rate (empirical Bayes),district median,none,lower bound (month bootstrap),5,0.94
+raw rate,district median,x (1 - coverage),lower bound (month bootstrap),9,0.991
+shrunk rate (empirical Bayes),district median,none,mean,6,0.939
+shrunk rate (empirical Bayes),district median,none,upper bound (month bootstrap),6,0.939
+shrunk rate (empirical Bayes),district median,none,upper bound (NB parametric),6,0.939
+shrunk rate (empirical Bayes),district median,none,lower bound (month bootstrap),5,0.938
 shrunk rate (empirical Bayes),district median,x (1 - coverage),mean,9,0.998
-shrunk rate (empirical Bayes),district median,x (1 - coverage),upper bound (month bootstrap),10,0.998
+shrunk rate (empirical Bayes),district median,x (1 - coverage),upper bound (month bootstrap),10,0.999
 shrunk rate (empirical Bayes),district median,x (1 - coverage),upper bound (NB parametric),9,0.998
-shrunk rate (empirical Bayes),district median,x (1 - coverage),lower bound (month bootstrap),9,0.993
-NB regression (region + IRS),district median,none,mean,2,0.641
-NB regression (region + IRS),district median,none,upper bound (month bootstrap),2,0.666
-NB regression (region + IRS),district median,none,upper bound (NB parametric),2,0.597
-NB regression (region + IRS),district median,none,lower bound (month bootstrap),3,0.644
-NB regression (region + IRS),district median,x (1 - coverage),mean,7,0.781
-NB regression (region + IRS),district median,x (1 - coverage),upper bound (month bootstrap),7,0.806
-NB regression (region + IRS),district median,x (1 - coverage),upper bound (NB parametric),8,0.737
-NB regression (region + IRS),district median,x (1 - coverage),lower bound (month bootstrap),7,0.759
-common-rate model x population,district median,none,mean,0,-0.52
-common-rate model x population,district median,none,upper bound (month bootstrap),0,-0.536
-common-rate model x population,district median,none,upper bound (NB parametric),0,-0.52
-common-rate model x population,district median,none,lower bound (month bootstrap),0,-0.518
-common-rate model x population,district median,x (1 - coverage),mean,0,-0.599
-common-rate model x population,district median,x (1 - coverage),upper bound (month bootstrap),0,-0.607
-common-rate model x population,district median,x (1 - coverage),upper bound (NB parametric),0,-0.599
-common-rate model x population,district median,x (1 - coverage),lower bound (month bootstrap),0,-0.579
+shrunk rate (empirical Bayes),district median,x (1 - coverage),lower bound (month bootstrap),9,0.991
+NB regression (region + IRS),district median,none,mean,2,0.688
+NB regression (region + IRS),district median,none,upper bound (month bootstrap),2,0.7
+NB regression (region + IRS),district median,none,upper bound (NB parametric),2,0.646
+NB regression (region + IRS),district median,none,lower bound (month bootstrap),3,0.673
+NB regression (region + IRS),district median,x (1 - coverage),mean,7,0.814
+NB regression (region + IRS),district median,x (1 - coverage),upper bound (month bootstrap),7,0.817
+NB regression (region + IRS),district median,x (1 - coverage),upper bound (NB parametric),8,0.792
+NB regression (region + IRS),district median,x (1 - coverage),lower bound (month bootstrap),7,0.794
+common-rate model x population,district median,none,mean,0,-0.493
+common-rate model x population,district median,none,upper bound (month bootstrap),0,-0.504
+common-rate model x population,district median,none,upper bound (NB parametric),0,-0.493
+common-rate model x population,district median,none,lower bound (month bootstrap),0,-0.491
+common-rate model x population,district median,x (1 - coverage),mean,0,-0.525
+common-rate model x population,district median,x (1 - coverage),upper bound (month bootstrap),0,-0.523
+common-rate model x population,district median,x (1 - coverage),upper bound (NB parametric),0,-0.525
+common-rate model x population,district median,x (1 - coverage),lower bound (month bootstrap),0,-0.508

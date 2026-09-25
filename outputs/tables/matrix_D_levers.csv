@@ -1,11 +1,11 @@
 lever,option,top-10 shared with our route,rank correlation,enters the top 10,leaves the top 10,
-estimator,raw count,4,0.727,"Bawku, Bolgatanga, Garu-Tempane, Jirapa, Sawla-Tuna-Kalba, Wa West","Daffiama-Bussie-Issa, Lawra, Nabdam, Nandom, Pusiga, Sissala West",
+estimator,raw count,4,0.741,"Bawku, Bolgatanga, Bongo, Garu-Tempane, Jirapa, Wa West","Daffiama-Bussie-Issa, Lawra, Nabdam, Nandom, Pusiga, Sissala West",
 estimator,raw rate,10,1.0,-,-,our route
 estimator,shrunk rate (empirical Bayes),10,1.0,-,-,
-estimator,NB regression (region + IRS),7,0.798,"Jirapa, Wa East, Wa West","Nabdam, Pusiga, Sissala West",
-estimator,common-rate model x population,0,-0.615,"Bunkpurugu-Yunyoo, East Gonja, East Mamprusi, Gushiegu, Nanumba North, Sagnarigu, Savelugu-Nanton, Tamale, West Mamprusi, Yendi","Daffiama-Bussie-Issa, Lambussie-Karni, Lawra, Nabdam, Nadowli-Kaleo, Nandom, Pusiga, Sissala East, Sissala West, Wa",
+estimator,NB regression (region + IRS),7,0.816,"Jirapa, Wa East, Wa West","Nabdam, Pusiga, Sissala West",
+estimator,common-rate model x population,0,-0.537,"Bunkpurugu-Yunyoo, East Mamprusi, Gushiegu, Kpandai, Nanumba North, Sagnarigu, Savelugu-Nanton, Tamale, West Mamprusi, Yendi","Daffiama-Bussie-Issa, Lambussie-Karni, Lawra, Nabdam, Nadowli-Kaleo, Nandom, Pusiga, Sissala East, Sissala West, Wa",
 imputation,zero,10,1.0,-,-,our route
-imputation,district median,10,0.998,-,-,
+imputation,district median,10,0.999,-,-,
 coverage,none,6,0.94,"Bolgatanga, Builsa South, Garu-Tempane, Kasena-Nankana West","Lawra, Nadowli-Kaleo, Nandom, Sissala West",
 coverage,x (1 - coverage),10,1.0,-,-,our route
 statistic,mean,9,0.997,Jirapa,Nandom,

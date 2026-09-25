@@ -26,6 +26,10 @@ Or open it interactively with `.venv/bin/jupyter lab` and choose Run All. Takes 
 | `notebooks/district_crosswalk.csv` | 2014–17 district names → 2021 boundary names (17 mismatches, 5 district splits) |
 | `outputs/figures/`, `outputs/tables/` | Written by the notebook. Aggregates only, no household rows |
 
+## AI use
+
+AI was used for the slides and the notebook code and to help explain majority of the concepts. The full declaration is in section 14 of the notebook; each member's personal declaration is in their individual reflection.
+
 ## Data
 
 `data/` is **never committed** (it is in `.gitignore`): it contains a licensed DHS extract. Get it from a teammate and place it at the repo root:
